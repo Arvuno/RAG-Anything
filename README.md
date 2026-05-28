@@ -1323,3 +1323,7 @@ If you find RAG-Anything useful in your research, please cite our paper:
     <div style="margin-top: 10px; color: #00d9ff; font-size: 16px;">Building the Future of Multimodal AI</div>
   </div>
 </div>
+
+## Contributing
+
+We welcome contributions! Please feel free to submit a Pull Request or open an issue for bug reports and feature suggestions.
