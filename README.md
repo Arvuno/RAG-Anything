@@ -1326,3 +1326,6 @@ If you find RAG-Anything useful in your research, please cite our paper:
 
 ## Contributing
 PRs welcome!
+
+<!-- Contributor: Arvuno - documentation update -->
+
